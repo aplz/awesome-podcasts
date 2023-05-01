@@ -66,7 +66,6 @@ Der Sendetermin wurde zur Fixzeit für Hörerinnen und Hörer, die sich ohne bes
 **[True Crime Köln](https://www.ksta.de/true-crime-koeln)**  
 > :de: Im Podcast „True Crime Köln“ stehen spektakuläre Verbrechen und Kriminalfälle aus Köln im Mittelpunkt. Dabei wechselt sich historischer True Crime mit investigativen Recherchen und spannenden Fällen aus der jüngeren Vergangenheit und Gegenwart ab.
 
-
 ---
 
 <a href="https://www.zeit.de/serie/verbrechen"><img src="https://www.poolartists.de/wp-content/uploads/2020/10/Verbrechen-1536x1536.png" align="left" height="100"></a>
@@ -77,8 +76,6 @@ Der Sendetermin wurde zur Fixzeit für Hörerinnen und Hörer, die sich ohne bes
 ---
 
 ## Documentation & Report
-
-TODO: Lage der Nation
 
 <a href="https://www.swr3.de/podcasts/wulff-100.html"><img src="https://www.swr3.de/podcasts/1653609926812%2Cchristian-wulff-der-fall-des-bundespraesidenten-100~_v-1x1@2dXL_-1f32c27c4978132dd0854e53b5ed30e10facc189.jpg" align="left" height="100"></a>
 
@@ -132,6 +129,27 @@ Klaus Brinkbäumer und Rieke Havertz lieben die USA, obwohl sie manchmal an ihne
 
 ## Misc
 
+<a href="https://studio-bummens.de/produktionen/podcast/baywatch-berlin/(https://studio-bummens.de/produktionen/podcast/baywatch-berlin/)"><img src="https://studio-bummens.de/wp-content/uploads/BWB_COVER-scaled-aspect-ratio-700-700-600x600.jpg" align="left" height="100"></a>
+
+**[Baywatch Berlin](https://studio-bummens.de/produktionen/podcast/baywatch-berlin/)**  
+> :de: Das Beautiful Mind Klaas Heufer-Umlauf probiert in diesem Podcast nach über 10 Jahren weltfremden Jet Set Spaß Kontakt zur echten Welt aufzunehmen. Thomas Schmitt und Jakob Lundt nehmen ihn dabei an die Hand und bringen ihn langsam wieder mit den Themen des wahren Lebens in Kontakt. Ab sofort, überall wo es Podcasts gibt.
+
+---
+
+<a href="https://www.swr3.de/podcasts/der-gangster-der-junkie-und-die-hure-112.html"><img src="https://www.swr3.de/podcasts/1682502931074%2Cder-gangster-der-junkie-und-die-hure-130~_v-1x1@2dXL_-1f32c27c4978132dd0854e53b5ed30e10facc189.jpg" align="left" height="100"></a>
+
+**[Der Gangster, der Junkie und die Hure](https://www.swr3.de/podcasts/der-gangster-der-junkie-und-die-hure-112.html)**  
+> :de: Ein Ex-Gefängnisinsasse, ein Ex-Drogenabhängiger und eine Domina sitzen gemeinsam am Tisch... Das könnte eine Filmszene sein, bei uns ist es der Anfang vieler spannender Gespräche! Maximilian Pollux, Roman Lemke und Nina Workhard erzählen Geschichten aus ihrer Vergangenheit und aus ihren jeweiligen Milieus.
+
+---
+
+<a href="[https://www.swr3.de/podcasts/der-gangster-der-junkie-und-die-hure-112.html](https://podever.de/podcasts/notaufnahme/)"><img src="https://podever.de/wp-content/uploads/2019/07/notaufnahme-die-lustigsten-patientengeschichten-600x600.png" align="left" height="100"></a>
+
+**[Notaufnahme](https://podever.de/podcasts/notaufnahme/)**  
+> :de: Hier geht es nicht um Gesundheits-Tipps, auch gibt es keine Genesungs-Ratschläge vom Onkel Doktor: hier ist Lachen die beste Medizin. Ärzte erleben jeden Tag lustige Geschichten mit ihren Patienten und in diesem Podcast werden sie erzählt. Achtung: „Lachen bis der Arzt kommt“ ist nicht möglich – er ist ja schon da...
+
+---
+
 <a href="https://www.zeit.de/serie/unter-pfarrerstoechtern"><img src="https://www.poolartists.de/wp-content/uploads/2016/06/Unter_Pfarrerstoechtern-1536x1536.png" align="left" height="100"></a>
 
 **[Unter Pfarrerstöchtern](https://www.zeit.de/serie/unter-pfarrerstoechtern)**  
@@ -139,14 +157,11 @@ Klaus Brinkbäumer und Rieke Havertz lieben die USA, obwohl sie manchmal an ihne
 
 
 
-
-## TODO 
+## To add 
 
 * NDR Dokucast: Spannervideos
-* [Notaufnahme](https://podever.de/podcasts/notaufnahme/)
-* Baywatch Berlin
-* Tabulos
-* [Der Junkie, der Gangster und die hure.](https://www.swr3.de/podcasts/der-gangster-der-junkie-und-die-hure-112.html)
+* Lage der Nation
+
 
 
 
