@@ -36,8 +36,11 @@ Der Sendetermin wurde zur Fixzeit für Hörerinnen und Hörer, die sich ohne bes
 
 <a href="https://ga.de/thema/akte-rheinland-der-true-crime-podcast-des-ga/"><img src="https://cdn.julephosting.de/podcasts/42-akte-rheinland/42_cover_540_540.jpg?v=4" align="left" height="100"></a>
 
-**[Akte Rheinland](https://open.spotify.com/show/4Es7mhD4k5ANAPywZs3p2o?si=vw_K_lp_RJuc0NOjDXA4QQ&dd=1&nd=1)**
+**[Akte Rheinland](https://open.spotify.com/show/4Es7mhD4k5ANAPywZs3p2o?si=vw_K_lp_RJuc0NOjDXA4QQ&dd=1&nd=1)** 
 > :de: Ein Podcast des Bonner General-Anzeigers über wahre Verbrechen
+
+📍 Bonn
+
 ---
 
 <a href="https://www.rbb-online.de/rbbkultur/podcasts/rbb-serienstoff/christin-und-ihre-moerder-feed.html"><img src="https://static.podcastcms.de/images/podcasts/7/727370/christin-und-ihre-moerder.png" align="left" height="100"></a>
@@ -50,7 +53,7 @@ Der Sendetermin wurde zur Fixzeit für Hörerinnen und Hörer, die sich ohne bes
 <a href="https://www.topic.com/missing-richard-simmons"><img src="https://i.scdn.co/image/0e0587d4b4abe1fab3498230a65953227dca922c" align="left" height="100"></a>
 
 **[Missing Richard Simmons](https://www.topic.com/missing-richard-simmons)**  
-> :gb: On February 15, 2014, fitness guru Richard Simmons disappeared. What happened? Filmmaker (and friend) Dan Taberski leads us down a winding road to find the star.  
+> :us: On February 15, 2014, fitness guru Richard Simmons disappeared. What happened? Filmmaker (and friend) Dan Taberski leads us down a winding road to find the star.  
 
 ---
 
@@ -65,6 +68,8 @@ Der Sendetermin wurde zur Fixzeit für Hörerinnen und Hörer, die sich ohne bes
 
 **[True Crime Köln](https://www.ksta.de/true-crime-koeln)**  
 > :de: Im Podcast „True Crime Köln“ stehen spektakuläre Verbrechen und Kriminalfälle aus Köln im Mittelpunkt. Dabei wechselt sich historischer True Crime mit investigativen Recherchen und spannenden Fällen aus der jüngeren Vergangenheit und Gegenwart ab.
+
+📍Cologne
 
 ---
 
@@ -91,19 +96,21 @@ Der Sendetermin wurde zur Fixzeit für Hörerinnen und Hörer, die sich ohne bes
 
 ---
 
+<a href="https://www1.wdr.de/mediathek/audio/wdr5/wdr5-tiefenblick/der-schuss-von-porz/der-schuss-von-porz-100.html"><img src="https://www1.wdr.de/mediathek/audio/sendereihen-bilder/wdr5-der-schuss-von-porz-100~_v-Podcast.jpg" align="left" height="100"></a>
+
+**[Der Schuss von Porz - Ein Politiker drückt ab](https://www1.wdr.de/mediathek/audio/wdr5/wdr5-tiefenblick/der-schuss-von-porz/der-schuss-von-porz-100.html)**  
+> :de: Vier junge Männer in Feierlaune. Ein Anwohner, der sich gestört fühlt. Er zieht in seinem Vorgarten eine Waffe und schießt. Die Tat, begangen von einem Rentner mit CDU-Mandat, wirft die Frage auf: War der Schuss rassistisch motiviert?
+
+📍Cologne
+
+---
+
 <a href="https://www.ardaudiothek.de/sendung/die-jagd-die-geheimen-chats-der-afd-bundestagsfraktion/10486589/"><img src="https://api.ardmediathek.de/image-service/images/urn:ard:image:f5eac5bb98cfdbec?w=448&ch=a9d8bc49e8c4cbd4" align="left" height="100"></a>
 
 **[Die Jagd - Die geheimen Chats der AfD-Bundestagsfraktion](https://www.ardaudiothek.de/sendung/die-jagd-die-geheimen-chats-der-afd-bundestagsfraktion/10486589/)**
 > :de: Im September 2017 schafft es die AFD zum ersten Mal in den Deutschen Bundestag. Noch am Wahlabend hallt Alexander Gaulands „Wir werden sie jagen!“ durch die Republik. Wie gefährlich ist eine Partei am äußersten rechten Rand im Parlament?
 
 --- 
-
-<a href="https://www1.wdr.de/mediathek/audio/wdr5/wdr5-tiefenblick/der-schuss-von-porz/der-schuss-von-porz-100.html"><img src="https://www1.wdr.de/mediathek/audio/sendereihen-bilder/wdr5-der-schuss-von-porz-100~_v-Podcast.jpg" align="left" height="100"></a>
-
-**[Der Schuss von Porz - Ein Politiker drückt ab](https://www1.wdr.de/mediathek/audio/wdr5/wdr5-tiefenblick/der-schuss-von-porz/der-schuss-von-porz-100.html)**  
-> :de: Vier junge Männer in Feierlaune. Ein Anwohner, der sich gestört fühlt. Er zieht in seinem Vorgarten eine Waffe und schießt. Die Tat, begangen von einem Rentner mit CDU-Mandat, wirft die Frage auf: War der Schuss rassistisch motiviert?
-
----
 
 <a href="https://www.zeit.de/serie/ok-america"><img src="https://www.poolartists.de/wp-content/uploads/2016/06/Okay_America-1536x1536.png" align="left" height="100"></a>
 
@@ -124,7 +131,6 @@ Klaus Brinkbäumer und Rieke Havertz lieben die USA, obwohl sie manchmal an ihne
 
 **[Wie war das im Osten?](https://www.zeit.de/serie/wie-war-das-im-osten)**   
 > :de: Ein Podcast von ZEIT ONLINE über das Leben in der DDR und danach. Was machte den Alltag in der DDR aus? Wie verbrachten die Jugendlichen ihre Freizeit? Wie reiste, wie liebte, wie arbeitete man? In ausführlichen Gesprächen kommen Menschen zu Wort, die aus verschiedenen Lebensbereichen erzählen. Die beiden Moderatoren, Valerie Schönian und Michael Schlieben, stammen aus Ost und West und sind neugierig, denn sie haben die DDR nicht selbst erlebt. 30 Jahre nach dem Mauerfall fragen sie nach dem, was in der DDR besonders war – und was nach der Wende daraus wurde.
-
 
 
 ## Misc
