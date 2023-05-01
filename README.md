@@ -1,7 +1,38 @@
 # awesome-podcasts
 
 
-## Mystery & True Crime
+## Crime
+
+<a href="https://www.ardaudiothek.de/sendung/kein-mucks-der-krimi-podcast-mit-bastian-pastewka/77021218/"><img src="https://api.ardmediathek.de/image-service/images/urn:ard:image:6e969925eadfcd8d?w=448&ch=8b0f903b06b740fe" align="left" height="100"></a>
+
+**[Kein Mucks! – der Krimi-Podcast mit Bastian Pastewka](https://www.ardaudiothek.de/sendung/kein-mucks-der-krimi-podcast-mit-bastian-pastewka/77021218/)**  
+> :de: Jeden Donnerstag eine neue Folge mit Krimis in voller Länge – Geheimnisvolle Streichholzbriefchen, gruselige Gräber, einsame Häuser im Nebel und ein Mord aus der Dose – das sind die Zutaten für die neue Kein-Mucks-Staffel – Bastian Pastewka holt Kriminalhörspiel-Klassiker aus den Archiven: aus der Zeit, als die Magnetbänder rauschten und das Mikrofon keine Gnade mit kleinen Patzern und raschelnden Skript-Seiten hatte. Als die Platzpatronen durch die Funkhäuser knallten, in den Aufnahme-Ateliers noch geraucht wurde und der Whisky bereitstand, um die Stimme zu ölen. Spannende Krimis – aus den Hörspielarchiven der ARD und Deutschlandfunk Kultur.
+
+---
+
+<a href="https://www.ardaudiothek.de/sendung/paul-temple-und-der-fall-valentine-hoerspiel-serie-von-francis-durbridge/12200401/"><img src="https://api.ardmediathek.de/image-service/images/urn:ard:image:e4705d469cb8f156?w=448&ch=be5abcb6897a4ff9" align="left" height="100"></a>
+
+**[Paul Temple und der Fall Valentine – Hörspiel-Serie von Francis Durbridge](https://www.ardaudiothek.de/sendung/paul-temple-und-der-fall-valentine-hoerspiel-serie-von-francis-durbridge/12200401/)**  
+> :de: Seit einigen Wochen wird das Westend von einer geheimnisvollen Selbstmordserie junger Frauen erschüttert. Scotland Yard ist ratlos und kann nur herausfinden, dass es wohl um Drogen und einen geheimnisvollen Hintermann namens Valentine geht. 
+
+---
+
+
+<a href="https://www.srf.ch/audio/schreckmuempfeli"><img src="https://ws.srf.ch/asset/image/audio/51db453b-cee6-4d02-a98e-c97fdb362f15/PODCAST/1570693762.jpg/scale/width/640" align="left" height="100"></a>
+
+**[Schreckmümpfeli](https://www.srf.ch/audio/schreckmuempfeli)**  
+> :de: Am 5. November 1975 drang es zu später Stunde erstmals in die helvetischen Stuben und Schlafzimmer: das «Schreckmümpfeli». Seither gingen gegen tausend von diesen ironischen Kurzkrimis über den Sender.
+Der Sendetermin wurde zur Fixzeit für Hörerinnen und Hörer, die sich ohne beschleunigten Puls und Kribbeln im Bauch nicht mehr unter die Bettdecke verkriechen mochten. Das «Schreckmümpfeli» wurde bald Kult und ist bis heute lebendig und attraktiv geblieben.
+
+---
+
+<a href="https://hoerspiele.dra.de/vollinfo.php?dukey=4931482&SID"><img src="https://www.gratis-hoerspiele.de/wp-content/uploads/2021/12/horowitz_sherlock-holmes-und-das-geheimnis-des-weissen-bandes-300x300.jpg" align="left" height="100"></a>
+
+**[Sherlock Holmes und das Geheimnis des weißen Bandes](https://hoerspiele.dra.de/vollinfo.php?dukey=4931482&SID)**  
+> :de: Dr. Watson, Holmes‘ getreuer Begleiter und Erzähler seiner Fälle, hat diese ebenso spannende wie erschütternde Episode bis ins hohe Alter verschwiegen – nicht ohne Grund, denn die Ereignisse brachten den großen Detektiv seinerzeit in arge Bedrängnis: Sherlock Holmes selbst wurde des Mordes angeklagt. Was sich bald als große Verschwörung entpuppt, beginnt an einem kalten Novembertag des Jahres 1890 in Sherlock Holmes‘ Wohnung in der Londoner Bakerstreet 221b. Ein elegant gekleideter Herr bittet den Detektiv um Hilfe: Er fühlt sich von einem Mann verfolgt, den er als den einzigen Überlebenden einer amerikanischen Verbrecherbande erkennt, die mit seiner Hilfe in Boston zerschlagen wurde. Ist der Mann ihm über den Atlantik gefolgt, um sich zu rächen? Trotz seiner legendären Methoden kann Sherlock Holmes im winterlichen London zunächst keine eindeutige Spur finden. Nur ein weißes Band am Handgelenk eines ermordeten Straßenjungen scheint in die richtige Richtung zu führen.
+
+
+## True Crime
 
 <a href="https://ga.de/thema/akte-rheinland-der-true-crime-podcast-des-ga/"><img src="https://cdn.julephosting.de/podcasts/42-akte-rheinland/42_cover_540_540.jpg?v=4" align="left" height="100"></a>
 
@@ -21,7 +52,7 @@
 **[Missing Richard Simmons](https://www.topic.com/missing-richard-simmons)**  
 > :gb: On February 15, 2014, fitness guru Richard Simmons disappeared. What happened? Filmmaker (and friend) Dan Taberski leads us down a winding road to find the star.  
 
---- 
+---
 
 <a href="https://www.aufdieohren.de/podcasts/pollux/"><img src="https://www.aufdieohren.de/wp-content/uploads/07072a47-751e-4d16-a476-5a712dd18265-660x660.jpeg" align="left" height="100"></a>
 
@@ -30,21 +61,24 @@
 
 ---
 
+<a href="https://www.ksta.de/true-crime-koeln"><img src="https://static.podcastcms.de/images/podcasts/7/3104522/true-crimekoeln.png" align="left" height="100"></a>
+
+**[True Crime Köln](https://www.ksta.de/true-crime-koeln)**  
+> :de: Im Podcast „True Crime Köln“ stehen spektakuläre Verbrechen und Kriminalfälle aus Köln im Mittelpunkt. Dabei wechselt sich historischer True Crime mit investigativen Recherchen und spannenden Fällen aus der jüngeren Vergangenheit und Gegenwart ab.
+
+
+---
+
 <a href="https://www.zeit.de/serie/verbrechen"><img src="https://www.poolartists.de/wp-content/uploads/2020/10/Verbrechen-1536x1536.png" align="left" height="100"></a>
 
 **[Verbrechen](https://www.zeit.de/serie/verbrechen)**  
 > :de: Warum lässt eine Frau ihren Mann erschießen? Wie kommt ein Kommissar an ein Geständnis? Warum lügen Zeugen manchmal? Und was, wenn Unschuldige in die Mühlen der Strafjustiz geraten – und niemand ihnen glaubt? Kriminalfälle und was hinter ihnen steckt, hören Sie im "Verbrechen"-Podcast.
 
-
-
-Todo
-* Paul Temple und der Fall Valentine – Hörspiel-Serie von Francis Durbridge
-* Sherlock Holmes Bastian Pasteweka
-* Schreckmümpfeli
-* Kein Mucks! – der Krimi-Podcast mit Bastian Pastewka
-
+---
 
 ## Documentation & Report
+
+TODO: Lage der Nation
 
 <a href="https://www.swr3.de/podcasts/wulff-100.html"><img src="https://www.swr3.de/podcasts/1653609926812%2Cchristian-wulff-der-fall-des-bundespraesidenten-100~_v-1x1@2dXL_-1f32c27c4978132dd0854e53b5ed30e10facc189.jpg" align="left" height="100"></a>
 
@@ -74,6 +108,14 @@ Todo
 
 ---
 
+<a href="https://www.zeit.de/serie/ok-america"><img src="https://www.poolartists.de/wp-content/uploads/2016/06/Okay_America-1536x1536.png" align="left" height="100"></a>
+
+**[OK, America?](https://www.zeit.de/serie/ok-america)**   
+> :de: Das transatlantische Bündnis steckt in der Krise: America First, raus aus dem Pariser Klimaabkommen, Asien ist wichtiger als Europa. Und Donald Trump steht womöglich vor seiner zweiten Amtszeit als Präsident.  
+Klaus Brinkbäumer und Rieke Havertz lieben die USA, obwohl sie manchmal an ihnen verzweifeln. Klaus Brinkbäumer war bis 2018 Chefredakteur beim »Spiegel« und berichtet für DIE ZEIT und ZEIT ONLINE aus den USA. Rieke Havertz ist Chefin vom Dienst bei ZEIT ONLINE. Sie reist regelmäßig für Recherchen in die USA.
+
+---
+
 <a href="https://en.wikipedia.org/wiki/S-Town"><img src="https://production.listennotes.com/podcasts/s-town-serial-productions-e3uRcK-9fpm-Y0lowXcvfOh.300x300.jpg" align="left" height="100"></a>
 
 **[S-Town](https://en.wikipedia.org/wiki/S-Town)**  
@@ -98,12 +140,10 @@ Todo
 
 
 
-
 ## TODO 
-* [OK, America?](https://www.zeit.de/serie/ok-america)
+
 * NDR Dokucast: Spannervideos
 * [Notaufnahme](https://podever.de/podcasts/notaufnahme/)
-* True Crime Köln
 * Baywatch Berlin
 * Tabulos
 * [Der Junkie, der Gangster und die hure.](https://www.swr3.de/podcasts/der-gangster-der-junkie-und-die-hure-112.html)
