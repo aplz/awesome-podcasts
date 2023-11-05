@@ -97,6 +97,11 @@ Der Sendetermin wurde zur Fixzeit für Hörerinnen und Hörer, die sich ohne bes
 **[Die Jagd - Die geheimen Chats der AfD-Bundestagsfraktion](https://www.ardaudiothek.de/sendung/die-jagd-die-geheimen-chats-der-afd-bundestagsfraktion/10486589/)**
 > :de: Im September 2017 schafft es die AFD zum ersten Mal in den Deutschen Bundestag. Noch am Wahlabend hallt Alexander Gaulands „Wir werden sie jagen!“ durch die Republik. Wie gefährlich ist eine Partei am äußersten rechten Rand im Parlament?  
 
+<a href="https://www.ardaudiothek.de/sendung/springerstiefel-fascho-oder-punk/94811946/"><img src="https://api.ardmediathek.de/image-service/images/urn:ard:image:e63c168c9092134d?w=448&ch=0a21ed7b0dbbea4b" align="left" height="100"></a>
+
+**[SPRINGERSTIEFEL - Fascho oder Punk?](https://www.ardaudiothek.de/sendung/springerstiefel-fascho-oder-punk/94811946/)**
+> :de: Ostdeutschland in den 90ern: Jugendliche in Springerstiefeln dominieren die Straßen. Wer sich gegen sie entscheidet oder nicht in ihr rechtsextremes Weltbild passt, wird zur Zielscheibe der Gewalt.  In „Springerstiefel – Fascho oder Punk” gehen Autor Hendrik Bolz und Reporter Don Pablo Mulemba auf eine sehr persönliche Spurensuche durch den Osten zur Zeit der Baseballschlägerjahre. Warum war es damals für so viele Jugendliche „cool”, Neonazi zu sein? Wie konnte rechte Gewalt zu einem ganz normalen Teil des Alltags werden? Und welche Folgen hat das bis heute für die Menschen, die davon betroffen waren? 
+
 
 <a href="https://www.zeit.de/serie/ok-america"><img src="https://www.poolartists.de/wp-content/uploads/2016/06/Okay_America-1536x1536.png" align="left" height="100"></a>
 
