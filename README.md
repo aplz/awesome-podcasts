@@ -85,6 +85,10 @@ Klaus Brinkbäumer und Rieke Havertz lieben die USA, obwohl sie manchmal an ihne
 <img src="https://production.listennotes.com/podcasts/s-town-serial-productions-e3uRcK-9fpm-Y0lowXcvfOh.300x300.jpg" align="left" height="100"> :us: S-Town is a podcast hosted by Brian Reed from Serial Productions, a New York Times company. The story follows a man named John who despises his Alabama town and decides to do something about it. He asks Brian to investigate the son of a wealthy family who's allegedly been bragging that he got away with murder. But when someone else ends up dead, the search for the truth leads to a nasty feud, a hunt for hidden treasure, and an unearthing of the mysteries of one man's life.
 <br clear="left"/>
 
+### [Vier Jahre Trump](https://www.zeit.de/serie/vier-jahre-trump)
+<img src="https://cdn.podcastcms.de/images/podcasts/315/3501436/48-monate-trump.png" align="left" height="100"> :de: Donald Trump ist erneut Präsident der USA. Wir blicken zurück. Wie verlief die erste Amtszeit von Trump? Welche Veränderungen hat er bewirkt? Und was können wir aus seiner ersten Amtszeit für seine zweite lernen? 48 Monate Regierungszeit in 48 Episoden.
+<br clear="left"/>
+
 ### [Wie war das im Osten?](https://www.zeit.de/serie/wie-war-das-im-osten)
 <img src="https://www.poolartists.de/wp-content/uploads/2020/10/Wie_war_das_im_Osten-1536x1536.png" align="left" height="100"> :de: Ein Podcast von ZEIT ONLINE über das Leben in der DDR und danach. Was machte den Alltag in der DDR aus? Wie verbrachten die Jugendlichen ihre Freizeit? Wie reiste, wie liebte, wie arbeitete man? In ausführlichen Gesprächen kommen Menschen zu Wort, die aus verschiedenen Lebensbereichen erzählen. Die beiden Moderatoren, Valerie Schönian und Michael Schlieben, stammen aus Ost und West und sind neugierig, denn sie haben die DDR nicht selbst erlebt. 30 Jahre nach dem Mauerfall fragen sie nach dem, was in der DDR besonders war – und was nach der Wende daraus wurde.
 <br clear="left"/>
