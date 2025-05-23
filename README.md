@@ -103,6 +103,10 @@ Klaus Brinkbäumer und Rieke Havertz lieben die USA, obwohl sie manchmal an ihne
 <img src="https://podever.de/wp-content/uploads/2019/07/notaufnahme-die-lustigsten-patientengeschichten-600x600.png" align="left" height="100"> :de: Hier geht es nicht um Gesundheits-Tipps, auch gibt es keine Genesungs-Ratschläge vom Onkel Doktor: hier ist Lachen die beste Medizin. Ärzte erleben jeden Tag lustige Geschichten mit ihren Patienten und in diesem Podcast werden sie erzählt. Achtung: „Lachen bis der Arzt kommt“ ist nicht möglich – er ist ja schon da...
 <br clear="left"/>
 
+### [Quarks Science Cops](https://www.ardaudiothek.de/sendung/quarks-science-cops/83030960/)
+<img src="https://api.ardmediathek.de/image-service/images/urn:ard:image:89269fde7425e5e4?w=448&ch=d12462de3b28ed81" align="left" height="100"> :de: Jeden Tag wird in Deutschland wissenschaftlicher Unsinn erzählt. Es ist Aufgabe der Quarks ScienceCops, diesen Unsinn aufzudecken und richtigzustellen. Das sind ihre Fälle.
+<br clear="left"/>
+
 ### [Unter Pfarrerstöchtern](https://www.zeit.de/serie/unter-pfarrerstoechtern)
 <img src="https://www.poolartists.de/wp-content/uploads/2016/06/Unter_Pfarrerstoechtern-1536x1536.png" align="left" height="100"> :de: Wie einsam war Gott vor der Schöpfung? Warum aß Eva vom verbotenen Apfel? Und was hat die Sintflut mit dem Klimawandel zu tun? Die Schwestern Sabine Rückert, stellvertretende Chefredakteurin der ZEIT, und Johanna Haberer, Theologieprofessorin, sprechen über die Bibel. Sie erzählen all jene Geschichten, mit denen sie als Pfarrerstöchter aufgewachsen sind – und räumen dabei auf mit Kitsch und Klischees. Und sie fragen: Was sagen uns die uralten Mythen der Bibel heute? »Unter Pfarrerstöchtern« will niemanden bekehren, sondern erzählen und zum Nachdenken anregen: Was steht eigentlich drin im Buch der Bücher, das seit Jahrtausenden die Weltgeschichte prägt?
 <br clear="left"/>
