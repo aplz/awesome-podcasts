@@ -13,7 +13,7 @@
 <br clear="left"/>
 
 ### [Schreckmümpfeli](https://www.srf.ch/audio/schreckmuempfeli)
-<img src="https://ws.srf.ch/asset/image/audio/51db453b-cee6-4d02-a98e-c97fdb362f15/PODCAST/1570693762.jpg/scale/width/640" align="left" width="100"> :de: Am 5. November 1975 drang es zu später Stunde erstmals in die helvetischen Stuben und Schlafzimmer: das «Schreckmümpfeli». Seither gingen gegen tausend von diesen ironischen Kurzkrimis über den Sender. Der Sendetermin wurde zur Fixzeit für Hörerinnen und Hörer, die sich ohne beschleunigten Puls und Kribbeln im Bauch nicht mehr unter die Bettdecke verkriechen mochten. Das «Schreckmümpfeli» wurde bald Kult und ist bis heute lebendig und attraktiv geblieben.
+<img src="https://il.srf.ch/images/?imageUrl=https://download-media.srf.ch/world/image/audio/2019/10/2acbe3237586442baef5421fb2a48aa2.jpg&format=webp&width=720" align="left" width="100"> :de: Am 5. November 1975 drang es zu später Stunde erstmals in die helvetischen Stuben und Schlafzimmer: das «Schreckmümpfeli». Seither gingen gegen tausend von diesen ironischen Kurzkrimis über den Sender. Der Sendetermin wurde zur Fixzeit für Hörerinnen und Hörer, die sich ohne beschleunigten Puls und Kribbeln im Bauch nicht mehr unter die Bettdecke verkriechen mochten. Das «Schreckmümpfeli» wurde bald Kult und ist bis heute lebendig und attraktiv geblieben.
 <br clear="left"/>
 
 ### [Sherlock Holmes und das Geheimnis des weißen Bandes](https://hoerspiele.dra.de/vollinfo.php?dukey=4931482&SID)
