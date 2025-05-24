@@ -50,6 +50,21 @@
 <img src="https://api.ardmediathek.de/image-service/images/urn:ard:image:958e2be0f825739d?w=448&ch=d3ff98540bf78754" align="left" height="100"> :de: Katja Füchsel und Teresa Sickert öffnen in ihrer neuen Podcastserie die Blackbox Knast. Die Journalistinnen und True-Crime-Expertinnen haben unzählige wahre Kriminalfälle recherchiert. Jetzt machen sie da weiter, wo True Crime oft aufhört: Nach dem Urteil. Sie wollen herausfinden, ob man im Knast ein besserer Mensch werden kann. Über eineinhalb Jahre hat Katja die Insassen der Teilanstalt 5 begleitet. Hier sitzen die lebenslänglich Verurteilten, die Mörder und Vergewaltiger. Sie hat mit ihnen die Höhen und Tiefen in der langen Zeit nach dem Urteil erlebt, sie in ihren Zellen besucht und beim Ausgang begleitet.
 <br clear="left"/>
 
+## News, Science, Politics
+
+### [Lage der Nation](https://lagedernation.org)
+<img src="https://lagedernation.org/wp-content/themes/ldn/framework/image/logo/lagedernation.svg" align="left" width="100"e> :de: Der Politik-Podcast aus Berlin mit Philip Banse und Ulf Buermeyer
+<br clear="left"/>
+
+### [OK, America?](https://www.zeit.de/serie/ok-america)
+<img src="https://www.poolartists.de/wp-content/uploads/2016/06/Okay_America-1536x1536.png" align="left" height="100"> :de: Das transatlantische Bündnis steckt in der Krise: America First, raus aus dem Pariser Klimaabkommen, Asien ist wichtiger als Europa. Und Donald Trump steht womöglich vor seiner zweiten Amtszeit als Präsident.  
+Klaus Brinkbäumer und Rieke Havertz lieben die USA, obwohl sie manchmal an ihnen verzweifeln. Klaus Brinkbäumer war bis 2018 Chefredakteur beim »Spiegel« und berichtet für DIE ZEIT und ZEIT ONLINE aus den USA. Rieke Havertz ist Chefin vom Dienst bei ZEIT ONLINE. Sie reist regelmäßig für Recherchen in die USA.
+<br clear="left"/>
+
+### [Quarks Science Cops](https://www.ardaudiothek.de/sendung/quarks-science-cops/83030960/)
+<img src="https://api.ardmediathek.de/image-service/images/urn:ard:image:89269fde7425e5e4?w=448&ch=d12462de3b28ed81" align="left" height="100"> :de: Jeden Tag wird in Deutschland wissenschaftlicher Unsinn erzählt. Es ist Aufgabe der Quarks ScienceCops, diesen Unsinn aufzudecken und richtigzustellen. Das sind ihre Fälle.
+<br clear="left"/>
+
 ## Documentation & Report
 
 ### [344 Minuten - Das Bahnfiasko](https://www.spiegel.de/thema/344-minuten/)
@@ -74,11 +89,6 @@
 
 ### [SPRINGERSTIEFEL - Fascho oder Punk?](https://www.ardaudiothek.de/sendung/springerstiefel-fascho-oder-punk/94811946/)
 <img src="https://api.ardmediathek.de/image-service/images/urn:ard:image:e63c168c9092134d?w=448&ch=0a21ed7b0dbbea4b" align="left" height="100"> :de: Ostdeutschland in den 90ern: Jugendliche in Springerstiefeln dominieren die Straßen. Wer sich gegen sie entscheidet oder nicht in ihr rechtsextremes Weltbild passt, wird zur Zielscheibe der Gewalt.  In „Springerstiefel – Fascho oder Punk” gehen Autor Hendrik Bolz und Reporter Don Pablo Mulemba auf eine sehr persönliche Spurensuche durch den Osten zur Zeit der Baseballschlägerjahre. Warum war es damals für so viele Jugendliche „cool”, Neonazi zu sein? Wie konnte rechte Gewalt zu einem ganz normalen Teil des Alltags werden? Und welche Folgen hat das bis heute für die Menschen, die davon betroffen waren?
-<br clear="left"/>
-
-### [OK, America?](https://www.zeit.de/serie/ok-america)
-<img src="https://www.poolartists.de/wp-content/uploads/2016/06/Okay_America-1536x1536.png" align="left" height="100"> :de: Das transatlantische Bündnis steckt in der Krise: America First, raus aus dem Pariser Klimaabkommen, Asien ist wichtiger als Europa. Und Donald Trump steht womöglich vor seiner zweiten Amtszeit als Präsident.  
-Klaus Brinkbäumer und Rieke Havertz lieben die USA, obwohl sie manchmal an ihnen verzweifeln. Klaus Brinkbäumer war bis 2018 Chefredakteur beim »Spiegel« und berichtet für DIE ZEIT und ZEIT ONLINE aus den USA. Rieke Havertz ist Chefin vom Dienst bei ZEIT ONLINE. Sie reist regelmäßig für Recherchen in die USA.
 <br clear="left"/>
 
 ### [S-Town](https://en.wikipedia.org/wiki/S-Town)
@@ -107,18 +117,10 @@ Klaus Brinkbäumer und Rieke Havertz lieben die USA, obwohl sie manchmal an ihne
 <img src="https://podever.de/wp-content/uploads/2019/07/notaufnahme-die-lustigsten-patientengeschichten-600x600.png" align="left" height="100"> :de: Hier geht es nicht um Gesundheits-Tipps, auch gibt es keine Genesungs-Ratschläge vom Onkel Doktor: hier ist Lachen die beste Medizin. Ärzte erleben jeden Tag lustige Geschichten mit ihren Patienten und in diesem Podcast werden sie erzählt. Achtung: „Lachen bis der Arzt kommt“ ist nicht möglich – er ist ja schon da...
 <br clear="left"/>
 
-### [Quarks Science Cops](https://www.ardaudiothek.de/sendung/quarks-science-cops/83030960/)
-<img src="https://api.ardmediathek.de/image-service/images/urn:ard:image:89269fde7425e5e4?w=448&ch=d12462de3b28ed81" align="left" height="100"> :de: Jeden Tag wird in Deutschland wissenschaftlicher Unsinn erzählt. Es ist Aufgabe der Quarks ScienceCops, diesen Unsinn aufzudecken und richtigzustellen. Das sind ihre Fälle.
-<br clear="left"/>
-
 ### [Unter Pfarrerstöchtern](https://www.zeit.de/serie/unter-pfarrerstoechtern)
 <img src="https://www.poolartists.de/wp-content/uploads/2016/06/Unter_Pfarrerstoechtern-1536x1536.png" align="left" height="100"> :de: Wie einsam war Gott vor der Schöpfung? Warum aß Eva vom verbotenen Apfel? Und was hat die Sintflut mit dem Klimawandel zu tun? Die Schwestern Sabine Rückert, stellvertretende Chefredakteurin der ZEIT, und Johanna Haberer, Theologieprofessorin, sprechen über die Bibel. Sie erzählen all jene Geschichten, mit denen sie als Pfarrerstöchter aufgewachsen sind – und räumen dabei auf mit Kitsch und Klischees. Und sie fragen: Was sagen uns die uralten Mythen der Bibel heute? »Unter Pfarrerstöchtern« will niemanden bekehren, sondern erzählen und zum Nachdenken anregen: Was steht eigentlich drin im Buch der Bücher, das seit Jahrtausenden die Weltgeschichte prägt?
 <br clear="left"/>
 
-## To add
-
-* NDR Dokucast: Spannervideos
-* Lage der Nation
 
 
 
