@@ -53,7 +53,7 @@
 ## News, Science, Politics
 
 ### [Lage der Nation](https://lagedernation.org)
-<img src="https://lagedernation.org/wp-content/themes/ldn/framework/image/logo/lagedernation.svg" align="left" width="100"e> :de: Der Politik-Podcast aus Berlin mit Philip Banse und Ulf Buermeyer
+<img src="https://lagedernation.org/wp-content/themes/ldn/framework/image/logo/lagedernation.svg" align="left" width="100"> :de: Der Politik-Podcast aus Berlin mit Philip Banse und Ulf Buermeyer
 <br clear="left"/>
 
 ### [OK, America?](https://www.zeit.de/serie/ok-america)
