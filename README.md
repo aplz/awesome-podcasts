@@ -86,6 +86,10 @@
 <img src="https://api.ardmediathek.de/image-service/images/urn:ard:image:f5eac5bb98cfdbec?w=448&ch=a9d8bc49e8c4cbd4" align="left" height="100"> :de: Im September 2017 schafft es die AFD zum ersten Mal in den Deutschen Bundestag. Noch am Wahlabend hallt Alexander Gaulands „Wir werden sie jagen!“ durch die Republik. Wie gefährlich ist eine Partei am äußersten rechten Rand im Parlament?
 <br clear="left"/>
 
+### [Riefenstahl: Influencerin des Bösen](https://www.ardsounds.de/episode/urn:ard:episode:d69cff7e7eabbc82/)
+<img src="https://api.ardmediathek.de/image-service/images/urn:ard:image:19f7adaa14019cc8?w=448&ch=4ac1975417f19c93" align="left" height="100"> :de: Wir öffnen Leni Riefenstahls Nachlass: bislang unveröffentlichte Gespräche mit Freunden, Journalisten und ihrem Verleger. Das bringt uns ins Deutschland Anfang der 1930er: gesellschaftliche Umbrüche und politisches Chaos. Riefenstahl sucht ihren Platz, wechselt vom Tanz zum Film, führt als eine der ersten Frauen Regie. 
+<br clear="left"/>
+
 ### [SPRINGERSTIEFEL - Fascho oder Punk?](https://www.ardaudiothek.de/sendung/springerstiefel-fascho-oder-punk/94811946/)
 <img src="https://api.ardmediathek.de/image-service/images/urn:ard:image:e63c168c9092134d?w=448&ch=0a21ed7b0dbbea4b" align="left" height="100"> :de: Ostdeutschland in den 90ern: Jugendliche in Springerstiefeln dominieren die Straßen. Wer sich gegen sie entscheidet oder nicht in ihr rechtsextremes Weltbild passt, wird zur Zielscheibe der Gewalt.  In „Springerstiefel – Fascho oder Punk” gehen Autor Hendrik Bolz und Reporter Don Pablo Mulemba auf eine sehr persönliche Spurensuche durch den Osten zur Zeit der Baseballschlägerjahre. Warum war es damals für so viele Jugendliche „cool”, Neonazi zu sein?
 <br clear="left"/>
