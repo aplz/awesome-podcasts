@@ -1,8 +1,8 @@
-# awesome-podcasts
+# awesome narrative podcasts
 
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-## Crime
+## Fiction
 
 ### [Kein Mucks! – der Krimi-Podcast mit Bastian Pastewka](https://www.ardaudiothek.de/sendung/kein-mucks-der-krimi-podcast-mit-bastian-pastewka/77021218/)
 <img src="https://api.ardmediathek.de/image-service/images/urn:ard:image:6e969925eadfcd8d?w=448&ch=8b0f903b06b740fe" align="left" width="100"> :de: Jeden Donnerstag eine neue Folge mit Krimis in voller Länge – Geheimnisvolle Streichholzbriefchen, gruselige Gräber, einsame Häuser im Nebel und ein Mord aus der Dose – das sind die Zutaten für die neue Kein-Mucks-Staffel – Bastian Pastewka holt Kriminalhörspiel-Klassiker aus den Archiven: aus der Zeit, als die Magnetbänder rauschten und das Mikrofon keine Gnade mit kleinen Patzern und raschelnden Skript-Seiten hatte. Als die Platzpatronen durch die Funkhäuser knallten, in den Aufnahme-Ateliers noch geraucht wurde und der Whisky bereitstand, um die Stimme zu ölen. Spannende Krimis – aus den Hörspielarchiven der ARD und Deutschlandfunk Kultur.
@@ -65,7 +65,7 @@ Klaus Brinkbäumer und Rieke Havertz lieben die USA, obwohl sie manchmal an ihne
 <img src="https://api.ardmediathek.de/image-service/images/urn:ard:image:89269fde7425e5e4?w=448&ch=d12462de3b28ed81" align="left" height="100"> :de: Jeden Tag wird in Deutschland wissenschaftlicher Unsinn erzählt. Es ist Aufgabe der Quarks ScienceCops, diesen Unsinn aufzudecken und richtigzustellen. Das sind ihre Fälle.
 <br clear="left"/>
 
-## Documentation & Report
+## Documentaries
 
 ### [344 Minuten - Das Bahnfiasko](https://www.spiegel.de/thema/344-minuten/)
 <img src="https://cdn.prod.www.spiegel.de/images/e9550a06-be9a-4398-a8fd-fb9d94cf4463_w320_r1_fpx55.01_fpy45.webp" align="left" width="100"> :de: Rund 800 Bahnreisende erleben im ICE 79 von Berlin nach Zürich eine unglaubliche Verkettung von Pannen. Warum hat Deutschland das Verkehrsmittel der Zukunft so lange vernachlässigt?
@@ -103,7 +103,7 @@ Klaus Brinkbäumer und Rieke Havertz lieben die USA, obwohl sie manchmal an ihne
 <img src="https://www.poolartists.de/wp-content/uploads/2020/10/Wie_war_das_im_Osten-1536x1536.png" align="left" height="100"> :de: Ein Podcast von ZEIT ONLINE über das Leben in der DDR und danach. Was machte den Alltag in der DDR aus? Wie verbrachten die Jugendlichen ihre Freizeit? Wie reiste, wie liebte, wie arbeitete man? In ausführlichen Gesprächen kommen Menschen zu Wort, die aus verschiedenen Lebensbereichen erzählen. Die beiden Moderatoren, Valerie Schönian und Michael Schlieben, stammen aus Ost und West und sind neugierig, denn sie haben die DDR nicht selbst erlebt. 30 Jahre nach dem Mauerfall fragen sie nach dem, was in der DDR besonders war – und was nach der Wende daraus wurde.
 <br clear="left"/>
 
-## Misc
+## Society & Culture
 
 ### [Baywatch Berlin](https://studio-bummens.de/produktionen/podcast/baywatch-berlin/)
 <img src="https://studio-bummens.de/wp-content/uploads/BWB_COVER-scaled-aspect-ratio-700-700-600x600.jpg" align="left" height="100"> :de: Das Beautiful Mind Klaas Heufer-Umlauf probiert in diesem Podcast nach über 10 Jahren weltfremden Jet Set Spaß Kontakt zur echten Welt aufzunehmen. Thomas Schmitt und Jakob Lundt nehmen ihn dabei an die Hand und bringen ihn langsam wieder mit den Themen des wahren Lebens in Kontakt. Ab sofort, überall wo es Podcasts gibt.
