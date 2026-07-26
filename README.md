@@ -5,7 +5,7 @@
 ## Fiction
 
 ### [Kein Mucks! – der Krimi-Podcast mit Bastian Pastewka](https://www.ardaudiothek.de/sendung/kein-mucks-der-krimi-podcast-mit-bastian-pastewka/77021218/)
-<img src="https://api.ardmediathek.de/image-service/images/urn:ard:image:6e969925eadfcd8d?w=448&ch=8b0f903b06b740fe" align="left" width="100"> :de: Jeden Donnerstag eine neue Folge mit Krimis in voller Länge – Geheimnisvolle Streichholzbriefchen, gruselige Gräber, einsame Häuser im Nebel und ein Mord aus der Dose – das sind die Zutaten für die neue Kein-Mucks-Staffel – Bastian Pastewka holt Kriminalhörspiel-Klassiker aus den Archiven: aus der Zeit, als die Magnetbänder rauschten und das Mikrofon keine Gnade mit kleinen Patzern und raschelnden Skript-Seiten hatte. Als die Platzpatronen durch die Funkhäuser knallten, in den Aufnahme-Ateliers noch geraucht wurde und der Whisky bereitstand, um die Stimme zu ölen. Spannende Krimis – aus den Hörspielarchiven der ARD und Deutschlandfunk Kultur.
+<img src="https://api.ardmediathek.de/image-service/images/urn:ard:image:6e969925eadfcd8d?w=448&ch=8b0f903b06b740fe" align="left" width="100"> :de: Bastian Pastewka holt Kriminalhörspiel-Klassiker aus den Archiven: aus der Zeit, als die Magnetbänder rauschten und das Mikrofon keine Gnade mit kleinen Patzern und raschelnden Skript-Seiten hatte. Als die Platzpatronen durch die Funkhäuser knallten, in den Aufnahme-Ateliers noch geraucht wurde und der Whisky bereitstand, um die Stimme zu ölen. Spannende Krimis – aus den Hörspielarchiven der ARD und Deutschlandfunk Kultur.
 <br clear="left"/>
 
 ### [Paul Temple und der Fall Valentine – Hörspiel-Serie von Francis Durbridge](https://www.ardaudiothek.de/sendung/paul-temple-und-der-fall-valentine-hoerspiel-serie-von-francis-durbridge/12200401/)
@@ -17,7 +17,7 @@
 <br clear="left"/>
 
 ### [Sherlock Holmes und das Geheimnis des weißen Bandes](https://hoerspiele.dra.de/vollinfo.php?dukey=4931482&SID)
-<img src="https://www.gratis-hoerspiele.de/wp-content/uploads/2021/12/horowitz_sherlock-holmes-und-das-geheimnis-des-weissen-bandes-300x300.jpg" align="left" height="100"> :de: Dr. Watson, Holmes‘ getreuer Begleiter und Erzähler seiner Fälle, hat diese ebenso spannende wie erschütternde Episode bis ins hohe Alter verschwiegen – nicht ohne Grund, denn die Ereignisse brachten den großen Detektiv seinerzeit in arge Bedrängnis: Sherlock Holmes selbst wurde des Mordes angeklagt. Was sich bald als große Verschwörung entpuppt, beginnt an einem kalten Novembertag des Jahres 1890 in Sherlock Holmes‘ Wohnung in der Londoner Bakerstreet 221b. Ein elegant gekleideter Herr bittet den Detektiv um Hilfe: Er fühlt sich von einem Mann verfolgt, den er als den einzigen Überlebenden einer amerikanischen Verbrecherbande erkennt, die mit seiner Hilfe in Boston zerschlagen wurde. Ist der Mann ihm über den Atlantik gefolgt, um sich zu rächen? Trotz seiner legendären Methoden kann Sherlock Holmes im winterlichen London zunächst keine eindeutige Spur finden. Nur ein weißes Band am Handgelenk eines ermordeten Straßenjungen scheint in die richtige Richtung zu führen.
+<img src="https://www.gratis-hoerspiele.de/wp-content/uploads/2021/12/horowitz_sherlock-holmes-und-das-geheimnis-des-weissen-bandes-300x300.jpg" align="left" height="100"> :de: Was sich bald als große Verschwörung entpuppt, beginnt an einem kalten Novembertag des Jahres 1890 in Sherlock Holmes‘ Wohnung in der Londoner Bakerstreet 221b. Ein elegant gekleideter Herr bittet den Detektiv um Hilfe: Er fühlt sich von einem Mann verfolgt, den er als den einzigen Überlebenden einer amerikanischen Verbrecherbande erkennt, die mit seiner Hilfe in Boston zerschlagen wurde. Ist der Mann ihm über den Atlantik gefolgt, um sich zu rächen? Trotz seiner legendären Methoden kann Sherlock Holmes im winterlichen London zunächst keine eindeutige Spur finden. Nur ein weißes Band am Handgelenk eines ermordeten Straßenjungen scheint in die richtige Richtung zu führen.
 <br clear="left"/>
 
 ## True Crime
@@ -27,7 +27,7 @@
 <br clear="left"/>
 
 ### [Christin und ihre Mörder](https://www.ardaudiothek.de/sendung/christin-und-ihre-moerder/55905322/)
-<img src="https://api.ardmediathek.de/image-service/images/urn:ard:image:51a045adc4552305?w=448&ch=b139fde6e4c39c26" align="left" height="100"> :de: Christin R. wird im Juni 2012 im beschaulichen Berlin-Lübars ermordet aufgefunden. Was weiß ihr Freund Robin über den Abend zuvor? Warum ist die junge Frau vor Kurzem in ihr Elternhaus zurückgezogen? Wer ist die andere Frau, die Christin mitten in der Nacht auf einem Parkplatz treffen will? Martina Reuter und Uta Eisenhardt rekonstruieren die Geschehnisse vor und nach Christins Tod, Polizist:innen der Mordkommission schildern die Ermittlungen hautnah, die mutmaßlichen Täter:innen erklären ihre Unschuld. Kann der darauffolgende Gerichtsprozess die Wahrheit feststellen?
+<img src="https://api.ardmediathek.de/image-service/images/urn:ard:image:51a045adc4552305?w=448&ch=b139fde6e4c39c26" align="left" height="100"> :de: Christin R. wird im Juni 2012 im beschaulichen Berlin-Lübars ermordet aufgefunden. Was weiß ihr Freund Robin über den Abend zuvor? Warum ist die junge Frau vor Kurzem in ihr Elternhaus zurückgezogen? Wer ist die andere Frau, die Christin mitten in der Nacht auf einem Parkplatz treffen will? Martina Reuter und Uta Eisenhardt rekonstruieren die Geschehnisse vor und nach Christins Tod, Polizist:innen der Mordkommission schildern die Ermittlungen hautnah, die mutmaßlichen Täter:innen erklären ihre Unschuld.
 <br clear="left"/>
 
 ### [Missing Richard Simmons](https://www.topic.com/missing-richard-simmons)
@@ -47,7 +47,7 @@
 <br clear="left"/>
 
 ### [Unter Mördern](https://www.rbb-online.de/podcasts/unter-moerdern/)
-<img src="https://api.ardmediathek.de/image-service/images/urn:ard:image:958e2be0f825739d?w=448&ch=d3ff98540bf78754" align="left" height="100"> :de: Katja Füchsel und Teresa Sickert öffnen in ihrer neuen Podcastserie die Blackbox Knast. Die Journalistinnen und True-Crime-Expertinnen haben unzählige wahre Kriminalfälle recherchiert. Jetzt machen sie da weiter, wo True Crime oft aufhört: Nach dem Urteil. Sie wollen herausfinden, ob man im Knast ein besserer Mensch werden kann. Über eineinhalb Jahre hat Katja die Insassen der Teilanstalt 5 begleitet. Hier sitzen die lebenslänglich Verurteilten, die Mörder und Vergewaltiger. Sie hat mit ihnen die Höhen und Tiefen in der langen Zeit nach dem Urteil erlebt, sie in ihren Zellen besucht und beim Ausgang begleitet.
+<img src="https://api.ardmediathek.de/image-service/images/urn:ard:image:958e2be0f825739d?w=448&ch=d3ff98540bf78754" align="left" height="100"> :de: Katja Füchsel und Teresa Sickert öffnen in ihrer neuen Podcastserie die Blackbox Knast. Sie wollen herausfinden, ob man im Knast ein besserer Mensch werden kann. Über eineinhalb Jahre hat Katja die Insassen der Teilanstalt 5 begleitet. Hier sitzen die lebenslänglich Verurteilten, die Mörder und Vergewaltiger. Sie hat mit ihnen die Höhen und Tiefen in der langen Zeit nach dem Urteil erlebt, sie in ihren Zellen besucht und beim Ausgang begleitet.
 <br clear="left"/>
 
 ## News, Science, Politics
@@ -57,8 +57,7 @@
 <br clear="left"/>
 
 ### [OK, America?](https://www.zeit.de/serie/ok-america)
-<img src="https://www.poolartists.de/wp-content/uploads/2016/06/Okay_America-1536x1536.png" align="left" height="100"> :de: Das transatlantische Bündnis steckt in der Krise: America First, raus aus dem Pariser Klimaabkommen, Asien ist wichtiger als Europa. Und Donald Trump steht womöglich vor seiner zweiten Amtszeit als Präsident.  
-Klaus Brinkbäumer und Rieke Havertz lieben die USA, obwohl sie manchmal an ihnen verzweifeln. Klaus Brinkbäumer war bis 2018 Chefredakteur beim »Spiegel« und berichtet für DIE ZEIT und ZEIT ONLINE aus den USA. Rieke Havertz ist Chefin vom Dienst bei ZEIT ONLINE. Sie reist regelmäßig für Recherchen in die USA.
+<img src="https://www.poolartists.de/wp-content/uploads/2016/06/Okay_America-1536x1536.png" align="left" height="100"> :de: Wie demokratisch sind die Vereinigten Staaten noch? Wer widersetzt sich Trump? Und kann man dieses Land noch lieben? Klaus Brinkbäumer und Rieke Havertz erklären die USA.
 <br clear="left"/>
 
 ### [Quarks Science Cops](https://www.ardaudiothek.de/sendung/quarks-science-cops/83030960/)
@@ -76,7 +75,7 @@ Klaus Brinkbäumer und Rieke Havertz lieben die USA, obwohl sie manchmal an ihne
 <br clear="left"/>
 
 ### [Cui Bono: WTF happened to Ken Jebsen](https://www.ardaudiothek.de/sendung/cui-bono-wtf-happened-to-ken-jebsen/89991466/)
-<img src="https://api.ardmediathek.de/image-service/images/urn:ard:image:0055eabf7c4e45e1?w=448&ch=efa8eada9b396b56" align="left" height="100"> :de: Cui Bono erzählt die Geschichte von Ken Jebsen: dem ehemaligen Radiomoderator, der zu einem der wohl einflussreichsten Verschwörungsideologen Deutschlands wurde. Wie konnte es dazu kommen? Der Podcast erzählt aber auch die Geschichte vom Einfluss der sozialen Medien, vom Erfolg von Verschwörungsideologien, vom erstarkenden Populismus in unserem Land – und wie all diese Kräfte sich in Zeiten von Corona gegenseitig verstärken und unsere Gesellschaft destabilisieren und beschädigen.
+<img src="https://api.ardmediathek.de/image-service/images/urn:ard:image:0055eabf7c4e45e1?w=448&ch=efa8eada9b396b56" align="left" height="100"> :de: Cui Bono erzählt die Geschichte von Ken Jebsen: dem ehemaligen Radiomoderator, der zu einem der wohl einflussreichsten Verschwörungsideologen Deutschlands wurde. Der Podcast erzählt aber auch die Geschichte vom Einfluss der sozialen Medien, vom Erfolg von Verschwörungsideologien, vom erstarkenden Populismus in unserem Land – und wie all diese Kräfte sich in Zeiten von Corona gegenseitig verstärken und unsere Gesellschaft destabilisieren und beschädigen.
 <br clear="left"/>
 
 ### [Der Schuss von Porz - Ein Politiker drückt ab](https://www1.wdr.de/mediathek/audio/wdr5/wdr5-tiefenblick/der-schuss-von-porz/der-schuss-von-porz-100.html)
@@ -88,11 +87,11 @@ Klaus Brinkbäumer und Rieke Havertz lieben die USA, obwohl sie manchmal an ihne
 <br clear="left"/>
 
 ### [SPRINGERSTIEFEL - Fascho oder Punk?](https://www.ardaudiothek.de/sendung/springerstiefel-fascho-oder-punk/94811946/)
-<img src="https://api.ardmediathek.de/image-service/images/urn:ard:image:e63c168c9092134d?w=448&ch=0a21ed7b0dbbea4b" align="left" height="100"> :de: Ostdeutschland in den 90ern: Jugendliche in Springerstiefeln dominieren die Straßen. Wer sich gegen sie entscheidet oder nicht in ihr rechtsextremes Weltbild passt, wird zur Zielscheibe der Gewalt.  In „Springerstiefel – Fascho oder Punk” gehen Autor Hendrik Bolz und Reporter Don Pablo Mulemba auf eine sehr persönliche Spurensuche durch den Osten zur Zeit der Baseballschlägerjahre. Warum war es damals für so viele Jugendliche „cool”, Neonazi zu sein? Wie konnte rechte Gewalt zu einem ganz normalen Teil des Alltags werden? Und welche Folgen hat das bis heute für die Menschen, die davon betroffen waren?
+<img src="https://api.ardmediathek.de/image-service/images/urn:ard:image:e63c168c9092134d?w=448&ch=0a21ed7b0dbbea4b" align="left" height="100"> :de: Ostdeutschland in den 90ern: Jugendliche in Springerstiefeln dominieren die Straßen. Wer sich gegen sie entscheidet oder nicht in ihr rechtsextremes Weltbild passt, wird zur Zielscheibe der Gewalt.  In „Springerstiefel – Fascho oder Punk” gehen Autor Hendrik Bolz und Reporter Don Pablo Mulemba auf eine sehr persönliche Spurensuche durch den Osten zur Zeit der Baseballschlägerjahre. Warum war es damals für so viele Jugendliche „cool”, Neonazi zu sein?
 <br clear="left"/>
 
 ### [S-Town](https://en.wikipedia.org/wiki/S-Town)
-<img src="https://production.listennotes.com/podcasts/s-town-serial-productions-e3uRcK-9fpm-Y0lowXcvfOh.300x300.jpg" align="left" height="100"> :us: S-Town is a podcast hosted by Brian Reed from Serial Productions, a New York Times company. The story follows a man named John who despises his Alabama town and decides to do something about it. He asks Brian to investigate the son of a wealthy family who's allegedly been bragging that he got away with murder. But when someone else ends up dead, the search for the truth leads to a nasty feud, a hunt for hidden treasure, and an unearthing of the mysteries of one man's life.
+<img src="https://production.listennotes.com/podcasts/s-town-serial-productions-e3uRcK-9fpm-Y0lowXcvfOh.300x300.jpg" align="left" height="100"> :us: S-Town tells the story of a man named John who despises his Alabama town and decides to do something about it. He asks Brian Brian Reed from Serial Productions to investigate the son of a wealthy family who's allegedly been bragging that he got away with murder. But when someone else ends up dead, the search for the truth leads to a nasty feud, a hunt for hidden treasure, and an unearthing of the mysteries of one man's life.
 <br clear="left"/>
 
 ### [Vier Jahre Trump](https://www.zeit.de/serie/vier-jahre-trump)
@@ -100,7 +99,7 @@ Klaus Brinkbäumer und Rieke Havertz lieben die USA, obwohl sie manchmal an ihne
 <br clear="left"/>
 
 ### [Wie war das im Osten?](https://www.zeit.de/serie/wie-war-das-im-osten)
-<img src="https://www.poolartists.de/wp-content/uploads/2020/10/Wie_war_das_im_Osten-1536x1536.png" align="left" height="100"> :de: Ein Podcast von ZEIT ONLINE über das Leben in der DDR und danach. Was machte den Alltag in der DDR aus? Wie verbrachten die Jugendlichen ihre Freizeit? Wie reiste, wie liebte, wie arbeitete man? In ausführlichen Gesprächen kommen Menschen zu Wort, die aus verschiedenen Lebensbereichen erzählen. Die beiden Moderatoren, Valerie Schönian und Michael Schlieben, stammen aus Ost und West und sind neugierig, denn sie haben die DDR nicht selbst erlebt. 30 Jahre nach dem Mauerfall fragen sie nach dem, was in der DDR besonders war – und was nach der Wende daraus wurde.
+<img src="https://www.poolartists.de/wp-content/uploads/2020/10/Wie_war_das_im_Osten-1536x1536.png" align="left" height="100"> :de: Ein Podcast über die DDR. Menschen erzählen von ihrem Alltag im Realsozialismus.
 <br clear="left"/>
 
 ## Society & Culture
@@ -118,7 +117,7 @@ Klaus Brinkbäumer und Rieke Havertz lieben die USA, obwohl sie manchmal an ihne
 <br clear="left"/>
 
 ### [Unter Pfarrerstöchtern](https://www.zeit.de/serie/unter-pfarrerstoechtern)
-<img src="https://www.poolartists.de/wp-content/uploads/2016/06/Unter_Pfarrerstoechtern-1536x1536.png" align="left" height="100"> :de: Wie einsam war Gott vor der Schöpfung? Warum aß Eva vom verbotenen Apfel? Und was hat die Sintflut mit dem Klimawandel zu tun? Die Schwestern Sabine Rückert, stellvertretende Chefredakteurin der ZEIT, und Johanna Haberer, Theologieprofessorin, sprechen über die Bibel. Sie erzählen all jene Geschichten, mit denen sie als Pfarrerstöchter aufgewachsen sind – und räumen dabei auf mit Kitsch und Klischees. Und sie fragen: Was sagen uns die uralten Mythen der Bibel heute? »Unter Pfarrerstöchtern« will niemanden bekehren, sondern erzählen und zum Nachdenken anregen: Was steht eigentlich drin im Buch der Bücher, das seit Jahrtausenden die Weltgeschichte prägt?
+<img src="https://www.poolartists.de/wp-content/uploads/2016/06/Unter_Pfarrerstoechtern-1536x1536.png" align="left" height="100"> :de: Von Schöpfung bis Apokalypse: Die Schwestern Sabine Rückert und Johanna Haberer sind mit biblischen Geschichten aufgewachsen. Im Bibelpodcast besprechen sie, was sie heute bedeuten. In ihrer neuen Reihe erzählen die Pfarrerstöchter die unglaublichen Geschichten ihrer eigenen Heiligen. Es sind Menschen, die neue Dimensionen eröffnen.
 <br clear="left"/>
 
 
