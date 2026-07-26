@@ -90,6 +90,10 @@
 <img src="https://api.ardmediathek.de/image-service/images/urn:ard:image:19f7adaa14019cc8?w=448&ch=4ac1975417f19c93" align="left" height="100"> :de: Wir öffnen Leni Riefenstahls Nachlass: bislang unveröffentlichte Gespräche mit Freunden, Journalisten und ihrem Verleger. Das bringt uns ins Deutschland Anfang der 1930er: gesellschaftliche Umbrüche und politisches Chaos. Riefenstahl sucht ihren Platz, wechselt vom Tanz zum Film, führt als eine der ersten Frauen Regie. 
 <br clear="left"/>
 
+### [Ruhm und Risse: Gloria von Thurn und Taxis](https://www.ardsounds.de/sendung/ruhm-und-risse/urn:ard:show:4758ca2a74217ae9/)
+<img src="https://api.ardmediathek.de/image-service/images/urn:ard:image:985f2149c286e96f?w=448&ch=fb37ee4bfcf679da" align="left" height="100"> :de: Was spielt sich hinter den Kulissen von Macht und öffentlicher Inszenierung ab? In "Ruhm und Risse" durchleuchten wir für euch berühmte Bayern, die polarisieren, und erzählen ihre Geschichte. [...] In der ersten Staffel geht es um Gloria von Thurn und Taxis. Host Bianca Taube hat mit Weggefährten, Freunden und Kritikern gesprochen. Sie ist dabei auf überraschende Zusammenhänge gestoßen, die bis in den Vatikan und bis ins Weiße Haus reichen.
+<br clear="left"/>
+
 ### [SPRINGERSTIEFEL - Fascho oder Punk?](https://www.ardaudiothek.de/sendung/springerstiefel-fascho-oder-punk/94811946/)
 <img src="https://api.ardmediathek.de/image-service/images/urn:ard:image:e63c168c9092134d?w=448&ch=0a21ed7b0dbbea4b" align="left" height="100"> :de: Ostdeutschland in den 90ern: Jugendliche in Springerstiefeln dominieren die Straßen. Wer sich gegen sie entscheidet oder nicht in ihr rechtsextremes Weltbild passt, wird zur Zielscheibe der Gewalt.  In „Springerstiefel – Fascho oder Punk” gehen Autor Hendrik Bolz und Reporter Don Pablo Mulemba auf eine sehr persönliche Spurensuche durch den Osten zur Zeit der Baseballschlägerjahre. Warum war es damals für so viele Jugendliche „cool”, Neonazi zu sein?
 <br clear="left"/>
