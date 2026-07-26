@@ -98,6 +98,10 @@
 <img src="https://production.listennotes.com/podcasts/s-town-serial-productions-e3uRcK-9fpm-Y0lowXcvfOh.300x300.jpg" align="left" height="100"> :us: S-Town tells the story of a man named John who despises his Alabama town and decides to do something about it. He asks Brian Brian Reed from Serial Productions to investigate the son of a wealthy family who's allegedly been bragging that he got away with murder. But when someone else ends up dead, the search for the truth leads to a nasty feud, a hunt for hidden treasure, and an unearthing of the mysteries of one man's life.
 <br clear="left"/>
 
+### [This Is America: Free Luigi](https://www.ardsounds.de/sendung/this-is-america-free-luigi/urn:ard:show:7940b69a453d2110/)
+<img src="https://api.ardmediathek.de/image-service/images/urn:ard:image:13ee1b17f228fb7c?w=448&ch=ff769b85d90113c7" align="left" height="100"> :de: Mitten auf offener Straße wird ein CEO erschossen – und der mutmaßliche Täter wird gefeiert. In "This Is America: Free Luigi" erzählt Khesrau Behroz, warum viele Menschen in Luigi Mangione einen Helden sehen und was das über die USA verrät.
+<br clear="left"/>
+
 ### [Vier Jahre Trump](https://www.zeit.de/serie/vier-jahre-trump)
 <img src="https://cdn.podcastcms.de/images/podcasts/315/3501436/48-monate-trump.png" align="left" height="100"> :de: Donald Trump ist erneut Präsident der USA. Wir blicken zurück. Wie verlief die erste Amtszeit von Trump? Welche Veränderungen hat er bewirkt? Und was können wir aus seiner ersten Amtszeit für seine zweite lernen? 48 Monate Regierungszeit in 48 Episoden.
 <br clear="left"/>
